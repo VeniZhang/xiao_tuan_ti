@@ -1,0 +1,12 @@
+2 3
+A
+aa 1 N
+ab 2 N
+ac 8 B:math.sin(x)
+B
+ba 4 N 
+bb 5 N 
+bc 6 N
+A.aa B.ba
+A.ab B.bb
+A.ac B.bc
